@@ -7,7 +7,7 @@ package entidades;
 
 /**
  *
- * @author awelo
+ * @author STREET CODE
  */
 public class Empleados {
     private String nombre=null;
